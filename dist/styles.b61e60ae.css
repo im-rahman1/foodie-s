@@ -304,12 +304,14 @@ a {
 }
 
 .product__text > h2 {
+  font-size: 3rem;
   color: #2b1700;
   margin: 0.5rem 0;
   text-decoration: underline 1px;
 }
 
 .product__text > p {
+  font-size: 1.8rem;
   color: #2b1700;
   margin: 0.5rem 0;
 }
